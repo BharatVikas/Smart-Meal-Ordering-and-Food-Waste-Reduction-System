@@ -1,0 +1,7 @@
+Our project is dedicated to creating an integrated software and hardware solution aimed at reducing food wastage in hostels while enhancing student health. The system enables hostel messes to input daily meal options, allowing students to select their desired food items and quantities through a mobile app. This ensures that only the food chosen by students is prepared, thereby significantly reducing waste.
+
+In cases where a student forgets to make a selection, they receive a notification, and default options are assigned if no response is received. The app also monitors attendance during meal times, alerting hostel wardens if a student misses multiple meals and prompting necessary follow-up with the student and their parents.
+
+Students can report food quality issues via the app, which sends notifications to the food department for immediate action. Persistent issues may lead to regulatory measures to ensure compliance. Additionally, to ensure accurate food serving, an RFID barcoding system is installed near the food serving area. This system uses a scanner to detect the ID number of the student’s card, verifying their ordered meal.
+
+Any leftover food can be purchased through the app for donation to food banks, promoting sustainability and community welfare. This comprehensive approach not only reduces waste but also fosters accountability, health, and generosity among students.
